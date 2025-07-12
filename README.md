@@ -45,8 +45,12 @@ SEGUIR LEYENDO
 Ya soy suscriptor
 
 ----------------- Article End -----------------------
+
 Cover image saved: C:\Users\1azha\OneDrive\Desktop\assigmentbrwsr\assets\Mi-nuevo-mejor-amigo-Alberto.jpg
+
 ----------------- Articles Section End ------------------
+
+
 ----------------- Translated Titles ---------------------
 
 1. Less Schengen, less Europe
