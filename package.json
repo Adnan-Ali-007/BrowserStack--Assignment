@@ -13,7 +13,7 @@
   ],
   "devDependencies": {
     "@types/jest": "^27.4.0",
-    "browserstack-node-sdk": "latest"
+    "browserstack-node-sdk": "^1.38.0"
   },
   "dependencies": {
     "axios": "^1.7.9",
@@ -23,8 +23,9 @@
     "selenium-webdriver": "4.1.2"
   },
   "scripts": {
-    "local-test": "node src/main.js",
-    "browserstack-test": "browserstack-node-sdk node src/main.js",
-    "postinstall": "npm update browserstack-node-sdk"
+    "local-test": "node src/index.js",
+    "browserstack-test": "browserstack-node-sdk node src/index.js",
+    "postinstall": "npm update browserstack-node-sdk",
+    "local-test-browserstack": "browserstack-node-sdk node src/index.js"
   }
 }
