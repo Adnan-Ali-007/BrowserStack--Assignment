@@ -1,5 +1,5 @@
 const axios =require("axios");
-require("dotenv").config({ path: "../.env" });
+require("dotenv").config({ path: require("path").resolve(__dirname, "../.env") });
 async function translateTitles(titles){
  const translatedTitles = [];
  const options={
