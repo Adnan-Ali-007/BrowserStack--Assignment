@@ -31,7 +31,9 @@ The expected output should be like this interminal
 
 
 ----------------- Article Start ---------------------
+
 **Title**: Mi nuevo mejor amigo: Alberto
+
 **Content**: Pedro, muchacho que está pasando por malos momentos en la escuela, 
 ya tiene un amigo. Incluso un mejor amigo. 
 Se llama Alberto y en el examen de fin de curso, 
@@ -41,6 +43,7 @@ Suscríbete para seguir leyendo
 Lee sin límites
 SEGUIR LEYENDO
 Ya soy suscriptor
+
 ----------------- Article End -----------------------
 Cover image saved: C:\Users\1azha\OneDrive\Desktop\assigmentbrwsr\assets\Mi-nuevo-mejor-amigo-Alberto.jpg
 ----------------- Articles Section End ------------------
