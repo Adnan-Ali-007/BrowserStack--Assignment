@@ -21,14 +21,21 @@ npm run local-test
 Run test on Browserstack
 
 npm run browserstack-test
+
+
 Output:
 
 The downloaded cover images are stored in assets folder
+
 The expected output should be like this interminal
+
+
 ----------------- Article Start ---------------------
 **Title**: Mi nuevo mejor amigo: Alberto
-**Content**: Pedro, muchacho que está pasando por malos momentos en la escuela, ya tiene un amigo. Incluso un mejor amigo. 
-Se llama Alberto y en el examen de fin de curso, el pleno extraordinario de esta semana en el Congreso de los Diputados, 
+**Content**: Pedro, muchacho que está pasando por malos momentos en la escuela, 
+ya tiene un amigo. Incluso un mejor amigo. 
+Se llama Alberto y en el examen de fin de curso, 
+el pleno extraordinario de esta semana en el Congreso de los Diputados, 
 le echó una mano infinita que le salvó de lo que pudo ser una hecatombe....
 Suscríbete para seguir leyendo
 Lee sin límites
